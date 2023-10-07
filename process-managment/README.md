@@ -463,19 +463,19 @@ $ getconf CHAR_MIN
 
 Some topics related to Operating System
 
-- [Overview of OS](https://github.com/meharehsaan/system-programming/tree/master/overview)
-- [Intro to Linux](https://github.com/meharehsaan/system-programming/tree/master/introduction-to-linux)
-- [Basic Shell Commands](https://github.com/meharehsaan/system-programming/tree/master/basic-shell-commands)
-- [Program-vs-Process](https://github.com/meharehsaan/system-programming/tree/master/program-vs-process)
+- [Overview of OS](https://github.com/meharehsaan/operating-system/tree/master/overview)
+- [Intro to Linux](https://github.com/meharehsaan/operating-system/tree/master/introduction-to-linux)
+- [Basic Shell Commands](https://github.com/meharehsaan/operating-system/tree/master/basic-shell-commands)
+- [Program-vs-Process](https://github.com/meharehsaan/operating-system/tree/master/program-vs-process)
 - [System Calls](https://github.com/meharehsaan/system-programming/tree/master/system-calls)
 - [C program compilation](https://github.com/meharehsaan/system-programming/tree/master/c-compilation)
 - [Linking C program](https://github.com/meharehsaan/system-programming/tree/master/linking)
 - [File System Architecture](https://github.com/meharehsaan/system-programming/tree/master/filesystem-architecture)
-
+- [Pipe's & Fifo's](https://github.com/meharehsaan/system-programming/tree/master/pipes)
+- [IPC-Signals](https://github.com/meharehsaan/system-programming/tree/master/IPC-Signals)
 
 <br>
 
 ---
 
 Best Regards - [Mehar Ehsaan](github.com/meharehsaan)
-
